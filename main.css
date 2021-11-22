@@ -17,6 +17,10 @@ body {
     background-position: center center;
 }
 
+p {
+    text-align: center;
+}
+
 p#nome {
     font-family: 'Estonia', cursive, sans-serif;
     font-size: 50pt;
